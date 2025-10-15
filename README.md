@@ -1,4 +1,4 @@
-# Hi, i'm Douglas Pacheco
+# Hi, I'm Douglas Pacheco
 🎓 Estudante de análise e desenvolvimento de sistemas
 
 🚀Focado em desenvolvimento **Back-end e Web**
