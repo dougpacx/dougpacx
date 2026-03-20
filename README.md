@@ -15,10 +15,6 @@ e trabalhar em projetos que possam facilitar o dia a dia das pessoas.
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=linux,git,django,python,mysql,java,spring" /> </div>
 
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougpacx&show_icons=true&theme=radical)
-
 ## 📫 Contato
 
 📧 **E-mail:** douglashxhp@gmail.com 
