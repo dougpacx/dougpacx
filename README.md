@@ -20,5 +20,3 @@ e trabalhar em projetos que possam facilitar o dia a dia das pessoas.
 📧 **E-mail:** douglashxhp@gmail.com 
 
 💼 [LinkedIn](https://www.linkedin.com/in/douglas-oliveira-bb4658369/)
-  
-🐍 [GitHub](https://github.com/dougpacx)
