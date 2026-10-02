@@ -1,22 +1,35 @@
-# Hi, I'm Douglas Pacheco
-🎓 Estudante de análise e desenvolvimento de sistemas
+# Douglas Pacheco
 
-🚀Focado em desenvolvimento **Back-end e Web**
+> Estudante de Análise e Desenvolvimento de Sistemas (FATEC-SP) | Desenvolvedor Back-end
 
-## 🧠 Sobre mim
-Sou apaixonado por tecnologia e gosto de criar soluções práticas e bem estruturadas.  
-Atualmente, estou aprofundando meus conhecimentos em **Java**, junto com **Springboot**,  
-buscando sempre escrever um código limpo e de fácil manutenção.
+Olá! Sou desenvolvedor com foco em **Back-end** e arquitetura de software, com ênfase no ecossistema **Java & Spring Boot**. No meu tempo livre, aprimoro minhas habilidades de lógica e estruturas de dados resolvendo desafios de **programação competitiva no Codeforces**.
 
-Gosto de estudar novas tecnologias, entender o funcionamento por trás dos sistemas  
-e trabalhar em projetos que possam facilitar o dia a dia das pessoas.
+---
 
-## 💻 Tecnologias 
+### 📌 Focos de Estudo & Interesses
+- **Back-end:** Java 17+, Spring Boot, Spring Security, JPA/Hibernate, criação e consumo de APIs RESTful
+- **Bancos de Dados:** Modelagem relacional e queries com MySQL
+- **Algoritmos:** Estruturas de dados avançadas e resolução de problemas competitivos (C++ / Java)
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,git,django,python,mysql,java,spring" /> </div>
+---
 
-## 📫 Contato
+### 🛠️ Stacks & Ferramentas
 
-📧 **E-mail:** douglashxhp@gmail.com 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,cpp,python,django,linux,git" alt="Stacks" />
+</div>
 
-💼 [LinkedIn](https://www.linkedin.com/in/douglas-pacheco-a431a6425/)
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dougpacx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Status GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougpacx&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="165" />
+</div>
+
+---
+### 📫 Onde me encontrar
+
+- 💼 **LinkedIn:** [douglas-pacheco](https://www.linkedin.com/in/douglas-pacheco-a431a6425/)
+- 📧 **E-mail:** [douglashxhp@gmail.com](mailto:douglashxhp@gmail.com)
+- 🏆 **Codeforces:** [dougpacx](https://codeforces.com/profile/dougpacx)
